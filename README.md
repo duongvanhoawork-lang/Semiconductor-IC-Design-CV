@@ -1,5 +1,9 @@
 ﻿# Duong Van Hoa - Academic Portfolio
 
+<p align="center">
+  <img src="avatar.png" alt="Duong Van Hoa Avatar" width="180" style="border-radius: 50%; border: 3px solid #0056b3; box-shadow: 0px 4px 10px rgba(0,0,0,0.15);" />
+</p>
+
 > **BIT_IC Student | FPT University**
 > Chuyen nganh: Cong nghe Thong tin - Thiet ke Vi mach (BIT_IC)
 
