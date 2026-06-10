@@ -1,4 +1,4 @@
-﻿# Duong Van Hoa - Academic Portfolio
+# Duong Van Hoa - Academic Portfolio
 
 <p align="center">
   <img src="avatar.png" alt="Duong Van Hoa Avatar" width="180" style="border-radius: 50%; border: 3px solid #0056b3; box-shadow: 0px 4px 10px rgba(0,0,0,0.15);" />
@@ -42,6 +42,12 @@
 
 ---
 
+## 🚀 Featured Projects
+
+* **[ESP32-CAM Person Tracker](https://github.com/duongvanhoawork-lang/esp32cam-person-tracker.git)**
+  * An embedded computer vision system using ESP32-CAM to identify and track human presence in real-time. Combine hardware architecture, micro-controller programming, and software integration.
+
+---
 ## Repository Navigation
 
 | Folder | Description |

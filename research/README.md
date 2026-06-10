@@ -1,9 +1,17 @@
-# Research Directory
+# Research & Projects Directory
 
-This directory contains your research projects. Projects are ordered by priority using numeric prefixes (e.g., `01_`, `02_`). Adjust the numbering to reflect the importance of each project for your field of study (Physics, Mechanical Engineering, large‑scale projects, etc.).
+This directory contains your research and engineering projects. Projects are ordered by priority using numeric prefixes (e.g., `01_`, `02_`). Adjust the numbering to reflect the importance of each project for your field of study (Semiconductor IC Design, Embedded Systems, Physics, etc.).
 
-- `01_...` – Highest priority (large or flagship projects).
-- `02_...` – Next priority (core physics or interdisciplinary work).
-- `03_...` – Lower priority or smaller investigations.
+## Featured Projects
 
-Rename or renumber the folders as your focus changes.
+### 🚀 01. ESP32-CAM Person Tracker
+* **Description:** An embedded computer vision project using the ESP32-CAM module to track human presence, combining hardware integration, real-time image processing, and firmware optimization.
+* **Repository:** [esp32cam-person-tracker](https://github.com/duongvanhoawork-lang/esp32cam-person-tracker.git)
+* **Status:** Completed / Active
+
+---
+
+## Order Reference
+- `01_...` – Highest priority (large or flagship projects like IC Design, Robotics, Computer Vision).
+- `02_...` – Next priority (embedded systems, core electronics, or interdisciplinary work).
+- `03_...` – Lower priority or smaller laboratory coursework investigations.
