@@ -5,7 +5,7 @@
 </p>
 
 > **BIT_IC Student | FPT University**
-> Chuyen nganh: Cong nghe Thong tin - Thiet ke Vi mach (BIT_IC)
+> Major: Information Technology - IC / Semiconductor Design (BIT_IC)
 
 ---
 
@@ -14,10 +14,10 @@
 | Field | Details |
 |-------|---------|
 | **Full Name** | Duong Van Hoa |
-| **Date of Birth** | 20/06/2006 |
+| **Date of Birth** | June 20, 2006 |
 | **Gender** | Male |
-| **Address** | Ap Phu Quy, Vinh Xuong, An Giang |
-| **Phone** | 0972 000 481 |
+| **Address** | Phu Quy Hamlet, Vinh Xuong Commune, Tan Chau Town, An Giang Province, Vietnam |
+| **Phone** | +84 972 000 481 |
 | **Email (Personal)** | hoadvcs200558@gmail.com |
 | **Email (Professional)** | DuongVanHoa.work@gmail.com |
 | **LinkedIn** | [Duong Hoa](https://www.linkedin.com/in/d%C6%B0%C6%A1ng-h%C3%B2a-03baab399) |
@@ -33,12 +33,12 @@
 | **Member Code** | HoaDVCS200558 |
 | **Major** | BIT - Business Information Technology |
 | **Specialization** | BIT_IC - IC / Semiconductor Design |
-| **Study Mode** | Full-time (Chinh quy) |
+| **Study Mode** | Full-time (Regular program) |
 | **Status** | In Progress - Term 3 |
 | **Academic Deadline** | SU31 |
 | **Previous Major** | BBA_MKT (transferred) |
-| **Transfer Decision** | 1399 - 12/12/2025 - FA25 |
-| **Official Student Decision** | 1490/QD-DHFPT - T8 2025 |
+| **Transfer Decision** | Decision No. 1399 - 12/12/2025 - FA25 |
+| **Official Admission Decision** | Decision No. 1490/QD-DHFPT - August 2025 |
 
 ---
 
