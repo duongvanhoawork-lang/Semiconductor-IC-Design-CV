@@ -9,6 +9,12 @@ This directory contains your research and engineering projects. Projects are ord
 * **Repository:** [esp32cam-person-tracker](https://github.com/duongvanhoawork-lang/esp32cam-person-tracker.git)
 * **Status:** Completed / Active
 
+### ♟️ 05. FR5 Xiangqi Robot
+* **Description:** An autonomous robotics system for playing Xiangqi, utilizing YOLO for real-time board state occupancy, Pygame for UI, and the Fairino FR5 manipulator for precise physical moves.
+* **Repository:** Repository: fr5_xiangqi_robot
+* **Status:**  Active Development
+
+
 ---
 
 ## Order Reference
