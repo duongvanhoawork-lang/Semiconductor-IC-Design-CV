@@ -45,7 +45,10 @@
 ## 🚀 Featured Projects
 
 * **[ESP32-CAM Person Tracker](https://github.com/duongvanhoawork-lang/esp32cam-person-tracker.git)**
-  * An embedded computer vision system using ESP32-CAM to identify and track human presence in real-time. Combine hardware architecture, micro-controller programming, and software integration.
+  * An embedded computer vision system using ESP32-CAM to identify and track human presence in real-time. Combines hardware architecture, micro-controller programming, and software integration.
+
+* **[FR5 Xiangqi Robot](./research/fr5_xiangqi_robot_v1)**
+  * An autonomous Chinese Chess playing robot utilizing computer vision (YOLO), a Pygame GUI, and a Fairino FR5 robotic arm to calculate and execute physical moves.
 
 ---
 ## Repository Navigation
