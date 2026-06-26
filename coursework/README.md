@@ -1,3 +1,8 @@
 # Coursework Directory
 
-Add course syllabi, assignments, and reports for each class. Create a subfolder per course (e.g., `PHYS101_Quantum_Mechanics`).
+Add course syllabi, assignments, and reports for each class.
+
+## 📂 Active Course Projects
+* **[Project Board Designer](./Project_Board_Designer)** – Tinkercad Digital Logic circuit designs (Counters, LED sequence controls).
+* **[Project FPGA GW5A-LV25UG324C2 I1](./Project_FPGA_GW5A-LV25UG324C2_I1)** – FPGA system designs including Button-controlled LEDs and Logic Gates.
+
