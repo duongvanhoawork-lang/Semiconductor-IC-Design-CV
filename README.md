@@ -1,6 +1,10 @@
 # Duong Van Hoa - Academic Portfolio
 
 <p align="center">
+  English | <a href="README.zh-CN.md">中文</a>
+</p>
+
+<p align="center">
   <img src="avatar.png" alt="Duong Van Hoa Avatar" width="180" style="border-radius: 50%; border: 3px solid #0056b3; box-shadow: 0px 4px 10px rgba(0,0,0,0.15);" />
 </p>
 
