@@ -1,7 +1,7 @@
 # Duong Van Hoa - Academic Portfolio
 
 <p align="center">
-  English | <a href="README.zh-CN.md">中文</a>
+  English | <a href="README.vn-vn.md">Viet Nam</a> | <a href="README.zh-CN.md">中文</a>
 </p>
 
 <p align="center">

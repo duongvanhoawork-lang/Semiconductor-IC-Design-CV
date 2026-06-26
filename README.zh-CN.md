@@ -1,7 +1,7 @@
 # Duong Van Hoa (杨万和) - 学术与项目作品集
 
 <p align="center">
-  <a href="README.md">English</a> | 中文
+  <a href="README.md">English</a> | <a href="README.vn-vn.md">Viet Nam</a> | 中文
 </p>
 
 <p align="center">
