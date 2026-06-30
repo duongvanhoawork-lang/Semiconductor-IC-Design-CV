@@ -8,8 +8,9 @@
   <img src="avatar.png" alt="Duong Van Hoa Avatar" width="180" style="border-radius: 50%; border: 3px solid #0056b3; box-shadow: 0px 4px 10px rgba(0,0,0,0.15);" />
 </p>
 
-> **BIT_IC 在读学生 | FPT大学**  
-> 专业方向：信息技术 - 集成电路/半导体设计 (BIT_IC)
+> 🎓 **半导体集成电路设计专业在读生 @ 越南FPT大学 (2024 - 2028学级)**  
+> 🏆 **GPA 成绩: 3.5+ / 4.0 (等级: 优秀 / Very Good)**  
+> 🎯 *研究方向：信息技术 - 集成电路/半导体系统设计 (BIT_IC)*
 
 ---
 

@@ -8,8 +8,9 @@
   <img src="avatar.png" alt="Duong Van Hoa Avatar" width="180" style="border-radius: 50%; border: 3px solid #0056b3; box-shadow: 0px 4px 10px rgba(0,0,0,0.15);" />
 </p>
 
-> **BIT_IC Student | FPT University**
-> Major: Information Technology - IC / Semiconductor Design (BIT_IC)
+> 🎓 **Semiconductor IC Design Student @ FPT University (2024 - 2028)**  
+> 🏆 **GPA: 3.5+ / 4.0 (Rank: Very Good)**  
+> 🎯 *Specializing in Information Technology - IC / Semiconductor Design (BIT_IC)*
 
 ---
 

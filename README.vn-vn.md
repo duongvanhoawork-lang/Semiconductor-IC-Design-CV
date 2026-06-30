@@ -8,8 +8,9 @@
   <img src="avatar.png" alt="Duong Van Hoa Avatar" width="180" style="border-radius: 50%; border: 3px solid #0056b3; box-shadow: 0px 4px 10px rgba(0,0,0,0.15);" />
 </p>
 
-> **Sinh viên ngành Thiết kế Vi mạch (BIT_IC) | Đại học FPT**  
-> Chuyên ngành: Công nghệ Thông tin - Thiết kế Vi mạch & Bán dẫn (BIT_IC)
+> 🎓 **Sinh viên chuyên ngành Thiết kế Vi mạch Bán dẫn @ Đại học FPT (Lộ trình 2024 - 2028)**  
+> 🏆 **GPA: 3.5+ / 4.0 (Xếp loại: Giỏi / Very Good)**  
+> 🎯 *Chuyên sâu: Công nghệ Thông tin - Thiết kế Vi mạch & Bán dẫn (BIT_IC)*
 
 ---
 
