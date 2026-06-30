@@ -1,10 +1,11 @@
 # Coursework Directory
 
-Add course syllabi, assignments, and reports for each class.
+This directory references the academic laboratory exercises, coursework reports, and engineering system designs conducted at FPT University.
 
-## 📂 Active Course Projects
-* **[Project Board Designer](./Project_Board_Designer)** – Tinkercad Digital Logic circuit designs (Counters, LED sequence controls).
-* **[Project FPGA GW5A-LV25UG324C2 I1](./Project_FPGA_GW5A-LV25UG324C2_I1)** – FPGA system designs including Button-controlled LEDs and Logic Gates.
-* **[STM32 Nucleo F401RE Laboratory](https://github.com/duongvanhoawork-lang/-STM32-Nucleo-F401RE-Laboratory.git)** – Repository containing micro-controller laboratory exercises, hardware interface codes, and technical reports.
+## 📂 Independent Repositories
+* **[FPGA Gowin System Designs](https://github.com/duongvanhoawork-lang/FPGA-Gowin-System-Designs.git)** – Digital hardware configurations, Verilog designs, and constraints compiled for the GW5A-LV25UG324C2 chip.
+* **[Digital Logic Circuits](https://github.com/duongvanhoawork-lang/-Digital-Logic-Circuits.git)** – Schematic captures, digital system logic, and interactive Tinkercad simulation projects.
+* **[STM32 Nucleo F401RE Laboratory](https://github.com/duongvanhoawork-lang/-STM32-Nucleo-F401RE-Laboratory.git)** – Micro-controller peripheral programming, C firmware, register configurations, and laboratory worksheets.
 
-
+---
+*Note: Click on the links above to view the respective system source codes, constraint setups, and simulation files.*
