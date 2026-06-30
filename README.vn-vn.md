@@ -32,11 +32,12 @@
 
 | Danh mục | Chi tiết |
 |-------|---------|
-| **Trường đại học** | Đại học FPT (FPT University) |
+| **Trường đại học** | Đại học FPT (FPT University - Lộ trình 2024 - 2028) |
 | **Mã số sinh viên (MSSV)** | CS200558 |
 | **Mã thành viên** | HoaDVCS200558 |
 | **Ngành học (Major)** | BIT - Công nghệ thông tin doanh nghiệp |
-| **Chuyên ngành (Specialization)** | BIT_IC - Thiết kế Vi mạch / Bán dẫn |
+| **Chuyên ngành (Specialization)** | BIT_IC - Thiết kế Vi mạch / Bán dẫn (Semiconductor IC Design) |
+| **GPA** | **3.5+ / 4.0** (Xếp loại: Giỏi / Very Good) |
 | **Hệ đào tạo** | Chính quy (Full-time) |
 | **Tình trạng** | Đang học - Học kỳ 3 |
 | **Hạn hoàn thành chương trình** | SU31 |

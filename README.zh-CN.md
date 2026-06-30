@@ -32,11 +32,12 @@
 
 | 字段 | 详细信息 |
 |-------|---------|
-| **就读高校** | FPT University (越南FPT大学) |
+| **就读高校** | FPT University (越南FPT大学 - 2024 - 2028学级) |
 | **学号 (Roll Number)** | CS200558 |
 | **学籍代码 (Member Code)** | HoaDVCS200558 |
 | **就读专业 (Major)** | BIT - 商业信息技术 |
-| **专业细分 (Specialization)** | BIT_IC - 集成电路/半导体芯片设计 |
+| **专业细分 (Specialization)** | BIT_IC - 集成电路/半导体芯片设计 (Semiconductor IC Design) |
+| **GPA 成绩** | **3.5+ / 4.0** (等级: 优秀 / Very Good) |
 | **就读形式** | 全日制 (正式统招) |
 | **当前状态** | 在读 - 第3学期 |
 | **预计毕业期限** | SU31 |
