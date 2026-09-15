@@ -40,7 +40,6 @@
 | **Specialization** | BIT_IC - IC / Semiconductor Design |
 | **GPA** | **3.5+ / 4.0** (Rank: Very Good) |
 | **Study Mode** | Full-time (Regular program) |
-| **Status** | In Progress - Term 3 |
 | **Academic Deadline** | SU31 |
 | **Previous Major** | BBA_MKT (transferred) |
 | **Transfer Decision** | Decision No. 1399 - 12/12/2025 - FA25 |
@@ -49,9 +48,6 @@
 ---
 
 ## 🚀 Featured Projects
-
-* **[ESP32-CAM Person Tracker](https://github.com/duongvanhoawork-lang/esp32cam-person-tracker.git)**
-  * An embedded computer vision system using ESP32-CAM to identify and track human presence in real-time. Combines hardware architecture, micro-controller programming, and software integration.
 
 * **[FR5 Xiangqi Robot](./research/fr5_xiangqi_robot_v1)**
   * An autonomous Chinese Chess playing robot utilizing computer vision (YOLO), a Pygame GUI, and a Fairino FR5 robotic arm to calculate and execute physical moves.
