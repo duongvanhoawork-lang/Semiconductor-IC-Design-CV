@@ -21,7 +21,7 @@
 | **Full Name** | Duong Van Hoa |
 | **Date of Birth** | June 20, 2006 |
 | **Gender** | Male |
-| **Address** | Phu Quy Hamlet, Vinh Xuong Commune, Tan Chau Town, An Giang Province, Vietnam |
+| **Address** | An Giang Province, Vietnam |
 | **Phone** | +84 972 000 481 |
 | **Email (Personal)** | hoadvcs200558@gmail.com |
 | **Email (Professional)** | DuongVanHoa.work@gmail.com |
@@ -40,10 +40,7 @@
 | **Specialization** | BIT_IC - IC / Semiconductor Design |
 | **GPA** | **3.5+ / 4.0** (Rank: Very Good) |
 | **Study Mode** | Full-time (Regular program) |
-| **Academic Deadline** | SU31 |
-| **Previous Major** | BBA_MKT (transferred) |
-| **Transfer Decision** | Decision No. 1399 - 12/12/2025 - FA25 |
-| **Official Admission Decision** | Decision No. 1490/QD-DHFPT - August 2025 |
+
 
 ---
 
