@@ -40,18 +40,10 @@
 | **专业细分 (Specialization)** | BIT_IC - 集成电路/半导体芯片设计 (Semiconductor IC Design) |
 | **GPA 成绩** | **3.5+ / 4.0** (等级: 优秀 / Very Good) |
 | **就读形式** | 全日制 (正式统招) |
-| **当前状态** | 在读 - 第3学期 |
-| **预计毕业期限** | SU31 |
-| **原专业** | BBA_MKT (工商管理-市场营销，已转出) |
-| **转专业决定书** | 决定书编号 1399 - 2025年12月12日 - FA25学期 |
-| **正式录取决定书** | 决定书编号 1490/QD-DHFPT - 2025年8月 |
 
 ---
 
 ## 🚀 核心展示项目
-
-* **[ESP32-CAM 智能人体追踪系统 (Person Tracker)](https://github.com/duongvanhoawork-lang/esp32cam-person-tracker.git)**
-  * 基于 ESP32-CAM 开发的嵌入式计算机视觉系统，可实现实时人体存在检测与目标追踪。项目有机融合了硬件架构设计、微控制器底层编程以及系统集成。
 
 * **[FR5 象棋博弈机器人 (Xiangqi Robot)](./research/fr5_xiangqi_robot_v1)**
   * 一款全自动象棋对弈机器人系统。利用计算机视觉 (YOLO) 进行棋盘状态实时检测与判定，配套 Pygame 图形化用户界面，并由 Fairino FR5 机械臂协作执行实体棋子的精准抓取与移动。
