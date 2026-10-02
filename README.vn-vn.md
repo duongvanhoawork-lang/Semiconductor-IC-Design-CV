@@ -21,7 +21,7 @@
 | **Họ và Tên** | Dương Văn Hòa |
 | **Ngày sinh** | 20/06/2006 |
 | **Giới tính** | Nam |
-| **Địa chỉ** | Ấp Phú Quý, Xã Vĩnh Xương, Thị xã Tân Châu, Tỉnh An Giang, Việt Nam |
+| **Địa chỉ** | Tỉnh An Giang, Việt Nam |
 | **Số điện thoại** | +84 972 000 481 |
 | **Email (Cá nhân)** | hoadvcs200558@gmail.com |
 | **Email (Công việc)** | DuongVanHoa.work@gmail.com |
@@ -40,19 +40,9 @@
 | **Chuyên ngành (Specialization)** | BIT_IC - Thiết kế Vi mạch / Bán dẫn (Semiconductor IC Design) |
 | **GPA** | **3.5+ / 4.0** (Xếp loại: Giỏi / Very Good) |
 | **Hệ đào tạo** | Chính quy (Full-time) |
-| **Tình trạng** | Đang học - Học kỳ 3 |
-| **Hạn hoàn thành chương trình** | SU31 |
-| **Ngành học cũ** | BBA_MKT (Quản trị kinh doanh - Marketing, đã chuyển ngành) |
-| **Quyết định chuyển ngành** | Quyết định số 1399 - ngày 12/12/2025 - FA25 |
-| **Quyết định công nhận SV** | Quyết định số 1490/QĐ-ĐHFPT - Tháng 8/2025 |
-
 ---
 
 ## 🚀 Dự Án Tiêu Biểu
-
-* **[ESP32-CAM Person Tracker (Hệ thống theo dõi người)](https://github.com/duongvanhoawork-lang/esp32cam-person-tracker.git)**
-  * Hệ thống thị giác máy tính nhúng sử dụng mô-đun ESP32-CAM để phát hiện và theo dõi sự hiện diện của con người trong thời gian thực. Dự án tích hợp thiết kế phần cứng nhúng, lập trình vi điều khiển và xử lý hình ảnh thực tế.
-
 * **[Robot chơi Cờ Tướng FR5 (FR5 Xiangqi Robot)](./research/fr5_xiangqi_robot_v1)**
   * Hệ thống robot chơi cờ tự động kết hợp xử lý ảnh camera (nhận diện trạng thái ô cờ qua YOLO), giao diện Pygame và điều khiển cánh tay robot công nghiệp Fairino FR5 để thực hiện di chuyển quân cờ vật lý trên bàn cờ thật.
 
