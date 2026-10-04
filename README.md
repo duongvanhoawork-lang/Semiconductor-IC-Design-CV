@@ -44,8 +44,6 @@
 ## 🚀 Featured Projects
 * **[FPGA Gowin System Designs](https://github.com/duongvanhoawork-lang/FPGA-Gowin-System-Designs.git)**
   * Digital hardware configurations, Verilog designs, and constraints compiled for the GW5A-LV25UG324C2 chip.
-* **[FR5 Xiangqi Robot](./research/fr5_xiangqi_robot_v1)**
-  * An autonomous Chinese Chess playing robot utilizing computer vision (YOLO), a Pygame GUI, and a Fairino FR5 robotic arm to calculate and execute physical moves.
 * **[STM32 Nucleo F401RE Laboratory](https://github.com/duongvanhoawork-lang/-STM32-Nucleo-F401RE-Laboratory.git)**
   * Micro-controller peripheral programming, C firmware, register configurations, and laboratory worksheets.
 ---
