@@ -34,7 +34,6 @@
 | Field | Details |
 |-------|---------|
 | **University** | FPT University (2024 - 2028) |
-| **Roll Number** | CS200558 |
 | **Major** | BIT - Business Information Technology |
 | **Specialization** | BIT_IC - IC / Semiconductor Design |
 | **GPA** | **3.5+ / 4.0** (Rank: Very Good) |
