@@ -1,4 +1,4 @@
-# Duong Van Hoa (杨万和) - 学术与项目作品集
+# Duong Van Hoa (杨文和) - 学术与项目作品集
 
 <p align="center">
   <a href="README.md">English</a> | <a href="README.vn-vn.md">Viet Nam</a> | 中文
@@ -18,7 +18,7 @@
 
 | 字段 | 详细信息 |
 |-------|---------|
-| **全名** | Duong Van Hoa (杨万和) |
+| **全名** | Duong Van Hoa (杨文和) |
 | **出生日期** | 2006年6月20日 |
 | **性别** | 男 |
 | **家庭地址** | 越南安江省新洲市社永昌社富贵邑 |
@@ -29,17 +29,6 @@
 
 ---
 
-## 🎓 教育背景与学籍信息
-
-| 字段 | 详细信息 |
-|-------|---------|
-| **就读高校** | FPT University (越南FPT大学 - 2024 - 2028学级) |
-| **就读专业 (Major)** | BIT - 商业信息技术 |
-| **专业细分 (Specialization)** | BIT_IC - 集成电路/半导体芯片设计 (Semiconductor IC Design) |
-| **GPA 成绩** | **3.5+ / 4.0** (等级: 优秀 / Very Good) |
-| **就读形式** | 全日制 (正式统招) |
-
----
 
 ## 🚀 核心展示项目
 * **[FPGA Gowin System Designs](https://github.com/duongvanhoawork-lang/FPGA-Gowin-System-Designs.git)**
