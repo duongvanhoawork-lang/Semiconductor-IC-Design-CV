@@ -14,6 +14,6 @@ This directory contains your research and engineering projects. Projects are ord
 ---
 
 ## Order Reference
-- `01_...` – Highest priority (large or flagship projects like IC Design, Robotics, Computer Vision).
+- `01_...` – Highest priority (large or flagship projects like IC Design, Computer Vision).
 - `02_...` – Next priority (embedded systems, core electronics, or interdisciplinary work).
 - `03_...` – Lower priority or smaller laboratory coursework investigations.
