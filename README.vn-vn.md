@@ -34,8 +34,6 @@
 | Danh mục | Chi tiết |
 |-------|---------|
 | **Trường đại học** | Đại học FPT (FPT University - Lộ trình 2024 - 2028) |
-| **Mã số sinh viên (MSSV)** | CS200558 |
-| **Mã thành viên** | HoaDVCS200558 |
 | **Ngành học (Major)** | BIT - Công nghệ thông tin doanh nghiệp |
 | **Chuyên ngành (Specialization)** | BIT_IC - Thiết kế Vi mạch / Bán dẫn (Semiconductor IC Design) |
 | **GPA** | **3.5+ / 4.0** (Xếp loại: Giỏi / Very Good) |
@@ -43,8 +41,7 @@
 ---
 
 ## 🚀 Dự Án Tiêu Biểu
-* **[Robot chơi Cờ Tướng FR5 (FR5 Xiangqi Robot)](./research/fr5_xiangqi_robot_v1)**
-  * Hệ thống robot chơi cờ tự động kết hợp xử lý ảnh camera (nhận diện trạng thái ô cờ qua YOLO), giao diện Pygame và điều khiển cánh tay robot công nghiệp Fairino FR5 để thực hiện di chuyển quân cờ vật lý trên bàn cờ thật.
+
 
 ---
 
