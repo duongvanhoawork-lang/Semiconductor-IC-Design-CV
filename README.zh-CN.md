@@ -34,8 +34,6 @@
 | 字段 | 详细信息 |
 |-------|---------|
 | **就读高校** | FPT University (越南FPT大学 - 2024 - 2028学级) |
-| **学号 (Roll Number)** | CS200558 |
-| **学籍代码 (Member Code)** | HoaDVCS200558 |
 | **就读专业 (Major)** | BIT - 商业信息技术 |
 | **专业细分 (Specialization)** | BIT_IC - 集成电路/半导体芯片设计 (Semiconductor IC Design) |
 | **GPA 成绩** | **3.5+ / 4.0** (等级: 优秀 / Very Good) |
@@ -44,10 +42,10 @@
 ---
 
 ## 🚀 核心展示项目
-
-* **[FR5 象棋博弈机器人 (Xiangqi Robot)](./research/fr5_xiangqi_robot_v1)**
-  * 一款全自动象棋对弈机器人系统。利用计算机视觉 (YOLO) 进行棋盘状态实时检测与判定，配套 Pygame 图形化用户界面，并由 Fairino FR5 机械臂协作执行实体棋子的精准抓取与移动。
-
+* **[FPGA Gowin System Designs](https://github.com/duongvanhoawork-lang/FPGA-Gowin-System-Designs.git)**
+  * Digital hardware configurations, Verilog designs, and constraints compiled for the GW5A-LV25UG324C2 chip.
+* **[STM32 Nucleo F401RE Laboratory](https://github.com/duongvanhoawork-lang/-STM32-Nucleo-F401RE-Laboratory.git)**
+  * Micro-controller peripheral programming, C firmware, register configurations, and laboratory worksheets.
 ---
 
 ## 📂 仓库导航指南
@@ -60,8 +58,6 @@
 | [coursework](./coursework) | 课程作业设计 (课程大纲、实验报告、系统代码等) |
 | [research](./research) | 学术研究与工程项目开发 (按重要优先级进行排序) |
 | [extracurricular](./extracurricular) | 课外活动 (公众演讲、学生社团经历、公益志愿服务) |
-| [scripts](./scripts) | 自动化脚本 (简历PDF自动转换生成器、静态网站构建脚本) |
-| [docs](./docs) | 文档指南 (仓库规范流程及排版设计样式指南) |
 
 ---
 
