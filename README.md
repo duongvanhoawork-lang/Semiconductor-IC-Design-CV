@@ -29,17 +29,6 @@
 
 ---
 
-## Academic Information
-
-| Field | Details |
-|-------|---------|
-| **University** | FPT University (2024 - 2028) |
-| **Major** | BIT - Business Information Technology |
-| **Specialization** | BIT_IC - IC / Semiconductor Design |
-| **GPA** | **3.5+ / 4.0** (Rank: Very Good) |
-| **Study Mode** | Full-time (Regular program) |
----
-
 ## 🚀 Featured Projects
 * **[FPGA Gowin System Designs](https://github.com/duongvanhoawork-lang/FPGA-Gowin-System-Designs.git)**
   * Digital hardware configurations, Verilog designs, and constraints compiled for the GW5A-LV25UG324C2 chip.
