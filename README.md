@@ -56,7 +56,6 @@
 | [scholarships](./scholarships) | Scholarship applications and awards |
 | [coursework](./coursework) | Course syllabi, assignments, and reports |
 | [research](./research) | Research projects (ordered by priority) |
-| [extracurricular](./extracurricular) | Events, clubs, and volunteering |
 | [scripts](./scripts) | Helper scripts (CV generation, static site build) |
 | [docs](./docs) | Portfolio guidelines and style guide |
 
