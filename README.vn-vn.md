@@ -40,8 +40,11 @@
 | **Hệ đào tạo** | Chính quy (Full-time) |
 ---
 
-## 🚀 Dự Án Tiêu Biểu
-
+## 🚀 Featured Projects
+* **[FPGA Gowin System Designs](https://github.com/duongvanhoawork-lang/FPGA-Gowin-System-Designs.git)**
+  * Digital hardware configurations, Verilog designs, and constraints compiled for the GW5A-LV25UG324C2 chip.
+* **[STM32 Nucleo F401RE Laboratory](https://github.com/duongvanhoawork-lang/-STM32-Nucleo-F401RE-Laboratory.git)**
+  * Micro-controller peripheral programming, C firmware, register configurations, and laboratory worksheets.
 
 ---
 
@@ -55,8 +58,6 @@
 | [coursework](./coursework) | Tài liệu môn học (Đề cương, bài tập thực hành, báo cáo môn học) |
 | [research](./research) | Dự án nghiên cứu & thiết kế kỹ thuật (Sắp xếp theo thứ tự ưu tiên) |
 | [extracurricular](./extracurricular) | Hoạt động ngoại khóa (Phát biểu trước công chúng, câu lạc bộ, tình nguyện xã hội) |
-| [scripts](./scripts) | Các script hỗ trợ tự động hóa (Tự động biên dịch CV, build trang web) |
-| [docs](./docs) | Tài liệu hướng dẫn (Quy chuẩn quản lý dự án, hướng dẫn viết báo cáo) |
 
 ---
 
