@@ -1,0 +1,16 @@
+# OS metadata
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Research papers (PDFs should not be publicly committed per copyright policies)
+research/**/*.pdf
+*.pdf
+!cv/*.pdf
+!cv/**/*.pdf
+
+# Editor & IDE
+.vscode/
+.idea/
+*.swp
+*~

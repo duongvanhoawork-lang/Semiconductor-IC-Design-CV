@@ -29,6 +29,16 @@
 
 ---
 
+## 📚 Công Trình Nghiên Cứu & Bài Báo Khoa Học (Publications)
+
+* **[Rank-Collapse and Detail Re-injection for Efficient Safety-Helmet Detection](https://link.springer.com/chapter/10.1007/978-981-92-6510-7_29)**  
+  *Tác giả:* **Dương Văn Hòa**, Nguyễn Gia Thuận, Nguyễn Quang Thịnh, Nguyễn Thành Long, Trần Ngọc Hoàng  
+  *Nơi công bố:* **Springer Nature** – Kỷ yếu hội nghị quốc tế *Multi-disciplinary Trends in Artificial Intelligence (MIWAI)*  
+  *DOI:* [`10.1007/978-981-92-6510-7_29`](https://doi.org/10.1007/978-981-92-6510-7_29) | [Xem trên Springer](https://link.springer.com/chapter/10.1007/978-981-92-6510-7_29) | [Trích dẫn & Chi tiết nghiên cứu](./research/01_safety_helmet_detection_rcdr)  
+  *Điểm nổi bật:* Đề xuất cơ chế **RCDR** (*Rank-Collapse and Detail Re-injection*) tối ưu hóa cho YOLO11n trên thiết bị biên/phần cứng khiêm tốn (NVIDIA GTX 1650). Giảm **13.14%** tham số, giảm **9.21%** FLOPs và tăng tốc độ xử lý lên **72.89 FPS** (+9.10%) trong khi bảo toàn độ chính xác $mAP_{50:95}$ trên tập dữ liệu SHWD.  
+  *(Lưu ý: Tuân thủ quy định bản quyền học thuật của nhà xuất bản Springer Nature, bài báo toàn văn được cung cấp trực tiếp qua cổng Springer; repository không lưu trữ/phát tán file PDF).*
+
+---
 
 ## 🚀 Featured Projects
 * **[FPGA Gowin System Designs](https://github.com/duongvanhoawork-lang/FPGA-Gowin-System-Designs.git)**
@@ -46,7 +56,7 @@
 | [certificates](./certificates) | Các loại chứng chỉ (Học thuật, ngoại ngữ, chứng chỉ kỹ thuật, giải thưởng thi cử, hoạt động tình nguyện) |
 | [scholarships](./scholarships) | Hồ sơ và hồ sơ xin học bổng |
 | [coursework](./coursework) | Tài liệu môn học (Đề cương, bài tập thực hành, báo cáo môn học) |
-| [research](./research) | Dự án nghiên cứu & thiết kế kỹ thuật (Sắp xếp theo thứ tự ưu tiên) |
+| [research](./research) | Công trình nghiên cứu & dự án kỹ thuật (Sắp xếp theo thứ tự ưu tiên) |
 | [extracurricular](./extracurricular) | Hoạt động ngoại khóa (Phát biểu trước công chúng, câu lạc bộ, tình nguyện xã hội) |
 
 ---

@@ -29,12 +29,23 @@
 
 ---
 
+## 📚 学术论文发表 (Publications)
+
+* **[Rank-Collapse and Detail Re-injection for Efficient Safety-Helmet Detection](https://link.springer.com/chapter/10.1007/978-981-92-6510-7_29)**  
+  *作者:* **Duong Van Hoa (杨文和)**, Thuan Gia Nguyen, Thinh Quang Nguyen, Long Thanh Nguyen, Hoang Tran Ngoc  
+  *发表出处:* **Springer Nature** – 国际学术会议 *Multi-disciplinary Trends in Artificial Intelligence (MIWAI)*  
+  *DOI:* [`10.1007/978-981-92-6510-7_29`](https://doi.org/10.1007/978-981-92-6510-7_29) | [Springer 官方链接](https://link.springer.com/chapter/10.1007/978-981-92-6510-7_29) | [论文详细介绍与引用格式](./research/01_safety_helmet_detection_rcdr)  
+  *核心亮点:* 针对边缘及中低端设备（NVIDIA GTX 1650）的安全帽检测任务，提出 **RCDR** (*Rank-Collapse and Detail Re-injection*) 架构并与 YOLO11n 融合。模型参数量减少 **13.14%**，FLOPs 降低 **9.21%**，推理速度提升至 **72.89 FPS** (+9.10%)，且在 SHWD 数据集上保持基线同等 mAP 精度。  
+  *(说明：严格遵守 Springer Nature 出版版权规范，全文请通过官方链接访问，本仓库不公开发布 PDF 全文)。*
+
+---
 
 ## 🚀 核心展示项目
 * **[FPGA Gowin System Designs](https://github.com/duongvanhoawork-lang/FPGA-Gowin-System-Designs.git)**
   * Digital hardware configurations, Verilog designs, and constraints compiled for the GW5A-LV25UG324C2 chip.
 * **[STM32 Nucleo F401RE Laboratory](https://github.com/duongvanhoawork-lang/-STM32-Nucleo-F401RE-Laboratory.git)**
   * Micro-controller peripheral programming, C firmware, register configurations, and laboratory worksheets.
+
 ---
 
 ## 📂 仓库导航指南

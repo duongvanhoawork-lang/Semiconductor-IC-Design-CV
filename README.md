@@ -29,12 +29,25 @@
 
 ---
 
+## 📚 Peer-Reviewed Scientific Publications
+
+* **[Rank-Collapse and Detail Re-injection for Efficient Safety-Helmet Detection](https://link.springer.com/chapter/10.1007/978-981-92-6510-7_29)**  
+  *Authors:* **Hoa Van Duong**, Thuan Gia Nguyen, Thinh Quang Nguyen, Long Thanh Nguyen, Hoang Tran Ngoc  
+  *Venue:* **Springer Nature** – *Multi-disciplinary Trends in Artificial Intelligence (MIWAI)*  
+  *DOI:* [`10.1007/978-981-92-6510-7_29`](https://doi.org/10.1007/978-981-92-6510-7_29) | [Publisher Link](https://link.springer.com/chapter/10.1007/978-981-92-6510-7_29) | [Detailed Overview & Citation](./research/01_safety_helmet_detection_rcdr)  
+  *Key Highlights:* Introduced **RCDR** (*Rank-Collapse and Detail Re-injection*) on YOLO11n for industrial safety edge devices. Reduced parameters by **13.14%**, FLOPs by **9.21%**, and increased throughput to **72.89 FPS** (+9.10%) on NVIDIA GTX 1650 while maintaining baseline mAP accuracy on the SHWD benchmark.  
+  *(Note: In compliance with publisher licensing, the full-text paper is accessible directly via Springer Nature; full-text PDFs are not distributed in this repository).*
+
+---
+
 ## 🚀 Featured Projects
 * **[FPGA Gowin System Designs](https://github.com/duongvanhoawork-lang/FPGA-Gowin-System-Designs.git)**
   * Digital hardware configurations, Verilog designs, and constraints compiled for the GW5A-LV25UG324C2 chip.
 * **[STM32 Nucleo F401RE Laboratory](https://github.com/duongvanhoawork-lang/-STM32-Nucleo-F401RE-Laboratory.git)**
   * Micro-controller peripheral programming, C firmware, register configurations, and laboratory worksheets.
+
 ---
+
 ## Repository Navigation
 
 | Folder | Description |
@@ -43,8 +56,7 @@
 | [certificates](./certificates) | Academic, language, technical, competition, volunteer certificates |
 | [scholarships](./scholarships) | Scholarship applications and awards |
 | [coursework](./coursework) | Course syllabi, assignments, and reports |
-| [research](./research) | Research projects (ordered by priority) |
-
+| [research](./research) | Research publications and projects (ordered by priority) |
 
 ---
 
